@@ -19,6 +19,8 @@ for ( let i = 0 ; i <= 10 ; i++)
 }
 
 
+//Example 3
+
 for ( let index = 1 ; index < 10 ; index++)
 {
 
